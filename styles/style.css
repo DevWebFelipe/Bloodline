@@ -42,7 +42,7 @@ img {
 
 .img-feature {
   margin-right: 10px;
-  width: 130px;
+  width: 150px;
   height: 130px;
   border-radius: 20px;
 }
@@ -54,4 +54,5 @@ img {
 .separator {
   border: 1px solid;
   height: 1px;
+  margin-top: 10px;
 }
