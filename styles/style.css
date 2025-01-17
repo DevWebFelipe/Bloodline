@@ -1,0 +1,57 @@
+body {
+  color: white;
+  background-color: rgba(7, 7, 7, 0.788);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  padding: 0 10% 20px 10%;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  padding: 16px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  max-width: 80%;
+  padding-top: 20px;
+  border-radius: 10px;
+}
+
+.center {
+  padding: 0 10%;
+  text-align: center;
+}
+
+.summary {
+  text-align: center;
+}
+
+.feature {
+  display: flex;  
+}
+
+.img-feature {
+  margin-right: 10px;
+  width: 130px;
+  height: 130px;
+  border-radius: 20px;
+}
+
+.clan-name {
+  text-transform: bold;
+}
+
+.separator {
+  border: 1px solid;
+  height: 1px;
+}
